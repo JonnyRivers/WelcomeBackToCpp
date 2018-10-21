@@ -149,7 +149,9 @@
   <ItemGroup>
     <ClInclude Include="Algorithms.h" />
     <ClInclude Include="Containers.h" />
+    <ClInclude Include="DateTime.h" />
     <ClInclude Include="ErrorsAndExceptions.h" />
+    <ClInclude Include="LINQ.h" />
     <ClInclude Include="ObjectLifetime.h" />
     <ClInclude Include="Pimpl.h" />
     <ClInclude Include="RAII.h" />
@@ -163,7 +165,9 @@
   <ItemGroup>
     <ClCompile Include="Algorithms.cpp" />
     <ClCompile Include="Containers.cpp" />
+    <ClCompile Include="DateTime.cpp" />
     <ClCompile Include="ErrorsAndExceptions.cpp" />
+    <ClCompile Include="LINQ.cpp" />
     <ClCompile Include="ObjectLifetime.cpp" />
     <ClCompile Include="Pimpl.cpp" />
     <ClCompile Include="RAII.cpp" />
